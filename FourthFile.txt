@@ -1,3 +1,6 @@
 Branch file added
+<<<<<<< HEAD
 Added and modified
 
+=======
+>>>>>>> master
